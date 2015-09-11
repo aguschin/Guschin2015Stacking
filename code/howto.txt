@@ -1,0 +1,1 @@
+You can view the code without installing Ipython using http://nbviewer.ipython.org/
